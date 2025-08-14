@@ -1,4 +1,4 @@
-# proyect-ecology
+#### proyect-ecology
 **Análisis genómico**
 Bienvenidos a la clases de análisis genómico donde aprenderemos los comandos escenciales para trabajar en bash, R y Python.
 
